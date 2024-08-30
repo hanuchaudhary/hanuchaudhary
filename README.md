@@ -25,4 +25,4 @@ I'm a Fullstack Developer with experience in building dynamic web applications. 
 
 ## GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanuchaudhary&show_icons=true&theme=radical)](https://github.com/hauchaudhary)
+[![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuchaudhary)](https://github.com/hanuchaudhary/github-readme-stats)

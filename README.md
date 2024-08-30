@@ -25,4 +25,4 @@ I'm a passionate Fullstack Developer crafting innovative web solutions, always o
 
 ## GitHub Stats
 
-[![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuchaudhary)](https://github.com/hanuchaudhary/github-readme-stats)
+[![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanuchaudhary&theme=apprentice&show_icons=true)](https://github.com/hanuchaudhary/github-readme-stats)

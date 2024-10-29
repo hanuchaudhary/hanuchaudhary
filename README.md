@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/kushchaudharyog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushchaudharyog" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kush-chaudhary-54448628a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kush-chaudhary-54448628a" height="30" width="40" /></a>
-<a href="https://instagram.com/@kush.chaudhary.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kush.chaudhary.1" height="30" width="40" /></a>
+<a href="https://instagram.com/kush.chaudhary.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kush.chaudhary.1" height="30" width="40" /></a>
 <a href="https://discord.gg/hanuchaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hanuchaudhary" height="30" width="40" /></a>
 </p>
 

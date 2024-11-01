@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="socketio logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/notion" height="40" alt="socketio logo"  />
+  <img src="https://img.icons8.com/?size=96&id=KyMSnxjEVwCr&format=png" height="40" alt="socketio logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -75,6 +75,7 @@
   <img src="https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e" height="40" alt="nodejs logo"  /> <img width="12" />
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" height="40" alt="nodejs logo"  /> <img width="12" />
   <img src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" height="40" alt="nodejs logo"  /> <img width="12" />
+   <img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" height="40" alt="nodejs logo"  /> <img width="12" />
 </div>
 
 ###

@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/81/68/80/8168802529079a39e7312cc758f79bc5.gif"  />
+  <img height="400" src="https://github.com/user-attachments/assets/6ad4da4b-caf4-48dd-891f-a27158936de8"  />
 </div>
 
 ###
@@ -193,20 +193,6 @@
 
 ###
 
-<h3 align="left">Socials</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="45" height="40" alt="medium logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="left">
@@ -215,18 +201,13 @@
 ###
 
 <h3 align="left">Github Stats</h3>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanuchaudhary&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="300" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=hanuchaudhary&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="290" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanuchaudhary&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=hanuchaudhary&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/output/snake.svg" alt="Snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/output/snake.svg" alt="Snake animation" />
 
 ###

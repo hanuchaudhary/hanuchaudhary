@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/f6/b0/fa/f6b0fae94fe01737bcf1244b098eaaf8.gif"  />
+  <img height="400" src="https://i.pinimg.com/originals/5d/f2/d6/5df2d61cf5706abeef73abb25ed2d1ed.gif"  />
 </div>
 
 ###
@@ -67,6 +67,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
   <img width="5" />
+  <img src="https://img.shields.io/badge/Hono-000000?logo=hono&logoColor=orange&style=for-the-badge" height="30" alt="hono logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
@@ -77,7 +79,10 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="30" alt="supabase logo"  />
   <img width="5" />
+   <img src="https://img.shields.io/badge/BullMQ-F05032?style=flat-square&logo=bullmq&logoColor=white" height="30" alt="hono logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
+  
 </div>
 
 ###
@@ -88,6 +93,8 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="30" alt="docker logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
   <img width="5" />
@@ -113,7 +120,15 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img width="5" />
+    <img src="https://img.shields.io/badge/BullMQ-F05032?style=flat-square&logo=bullmq&logoColor=white" height="30" alt="hono logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
+   <img width="5" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" height="30" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" alt="docker logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
   <img width="5" />
@@ -170,6 +185,10 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="30" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" height="30" alt="docker logo"  />
 </div>
 
 ###
@@ -203,7 +222,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanuchaudhary&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="300" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=hanuchaudhary&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="390" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hanuchaudhary&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="290" alt="streak graph"  />
 </div>
 
 ###

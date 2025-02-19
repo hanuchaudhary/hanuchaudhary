@@ -6,14 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="400" src="https://github.com/user-attachments/assets/6ad4da4b-caf4-48dd-891f-a27158936de8"  />
-</div>
-
-###
-
 <h3 align="left">Langauges</h3>
 
 ###

@@ -91,6 +91,10 @@
 <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" width="50" alt="stackoverflow" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="50" width="50" alt="nextjs" />
 <img src="https://skillicons.dev/icons?i=react" height="50" width="50" alt="react" />
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/main/assets/socket-io.svg" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/main/assets/websocket." height="50" width="50" />
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/main/assets/react-native.svg" height="50" width="50" />
+
 <img src="https://skillicons.dev/icons?i=vite" height="50" width="50" alt="vite" />
 <img src="https://skillicons.dev/icons?i=ts" height="50" width="50" alt="ts" />
 <img src="https://skillicons.dev/icons?i=js" height="50" width="50" alt="js" />

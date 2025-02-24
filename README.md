@@ -11,7 +11,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,c,py,html,css,postgres,md,mysql" height="40" alt="langauge logos"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
 
 ###
@@ -31,8 +39,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,firebase,supabase,postgresql,redis" alt="backend logos"  />
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94M4wBTqXiBtJbO6YmbxclBJfe-C8MIOeGQ&s" height="40" alt="linkedin logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=express" alt="express" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="redis" height="40" width="40" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94M4wBTqXiBtJbO6YmbxclBJfe-C8MIOeGQ&s" height="40" alt="linkedin logo"  />
 </div>
 
 ###
@@ -45,7 +60,7 @@
 <img src="https://skillicons.dev/icons?i=aws" alt="aws" height="40" width="40" />
 <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" height="40" width="40" />
 <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" height="40" width="40" />
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" height="40" width="40" />main/
 <img src="https://skillicons.dev/icons?i=redis" alt="redis" height="40" width="40" />
 <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="40" width="40" />
 <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" height="40" width="40" />
@@ -83,10 +98,10 @@
 <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="40" width="40" />
 <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" height="40" width="40" />
 <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" height="40" width="40" />
-<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/routerDom.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/auth0.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/jsonwebtokens.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/nodemon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/main/assets/routerDom.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/main/assets/auth0.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/main/assets/jsonwebtokens.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/main/assets/nodemon.svg" width="40" height="40"/>
 
 </div>
 

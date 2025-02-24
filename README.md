@@ -43,6 +43,10 @@
 
 <div align="left">
  <img src="https://skillicons.dev/icons?i=aws,cloudflare,nginx,docker,redis,mysql,mongodb,supabase,fastapi,express,nodejs,prisma,redux,powershell,bash,postman,githubactions,github,git,firebase,notion,androidstudio,figma,md,devto,stackoverflow,nextjs,react,vite,ts,js,html,css,sass,tailwind,netlify,bun,vercel,npm,yarn,pnpm" alt="tech stack logos" />
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/routerDom.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/auth0.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/jsonwebtokens.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/nodemon.svg" width="40" height="40"/>
 
 </div>
 

@@ -29,7 +29,13 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,bootstrap" height="50" width="50" alt="frontend logos" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" width="50" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" width="50" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" width="50" alt="tailwind logo" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="50" width="50" alt="materialui logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" width="50" alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" width="50" alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" width="50" alt="css logo" />
 </div>
 
 ###

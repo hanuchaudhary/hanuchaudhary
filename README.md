@@ -42,7 +42,47 @@
 ###
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=aws,cloudflare,nginx,docker,redis,mysql,mongodb,supabase,fastapi,express,nodejs,prisma,redux,powershell,bash,postman,githubactions,github,git,firebase,notion,androidstudio,figma,md,devto,stackoverflow,nextjs,react,vite,ts,js,html,css,sass,tailwind,netlify,bun,vercel,npm,yarn,pnpm" alt="tech stack logos" />
+<img src="https://skillicons.dev/icons?i=aws" alt="aws" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=nginx" alt="nginx" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=redis" alt="redis" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=supabase" alt="supabase" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=express" alt="express" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=prisma" alt="prisma" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=redux" alt="redux" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=powershell" alt="powershell" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=bash" alt="bash" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=postman" alt="postman" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=git" alt="git" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=firebase" alt="firebase" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=notion" alt="notion" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=figma" alt="figma" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=md" alt="md" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=devto" alt="devto" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=react" alt="react" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=vite" alt="vite" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=ts" alt="ts" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=js" alt="js" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=html" alt="html" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=css" alt="css" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=sass" alt="sass" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=netlify" alt="netlify" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=bun" alt="bun" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=vercel" alt="vercel" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=npm" alt="npm" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=yarn" alt="yarn" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/routerDom.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/auth0.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/hanuchaudhary/hanuchaudhary/assets/jsonwebtokens.svg" width="40" height="40"/>
